@@ -1,0 +1,62 @@
+@media(max-width: 480px){
+
+
+
+.ocultar{
+    display: none;
+}
+.ocultar2{
+    visibility: hidden;
+}
+#barraDuracion{
+ 
+	 height: 5px;
+	 position: relative;
+	 top: 110px;
+	 margin: 14px;
+	 border: 1px solid red;
+	 border-radius: 8px;
+}
+ #progresoDuracion {
+      width: 0;
+      height: 100%;
+      background-color: #EA2B1F;
+      border-radius: 8px;
+
+    }
+
+body{
+	background-color: #F9DF74;
+}
+.musicas{
+	position: absolute;
+  top: 20%;
+  left: 10.5px;
+	background-color: #F9EDCC;
+   
+  border-radius: 10px;
+  height: 50%;
+  width: 410px;
+
+}
+.img{
+	 position: relative;
+	 left: 30%;
+	 top: 30px;
+	width: 40%;
+}
+.card-body-music{
+	 position: relative;
+	 top: 56px;
+    width: 38%;
+    margin: auto;
+}
+ 
+i{
+	font-size: 35px;
+}
+
+}
+ 
+
+
